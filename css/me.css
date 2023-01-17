@@ -42,8 +42,8 @@ a:hover{
 }
 .rahi p,h3{
 	font-family: Gabriola;
-	font-size:30px;
-    margin-top:2px;
+	font-size:2em;
+    margin-top:1em;
 }
 span{
 	color: green;
@@ -53,7 +53,7 @@ img{
 	width:200px;
 	position:absolute;
 	right:500px;
-	top:250px;
+	top:10em;
 	border:5px solid;
 	border-color: black green green black;
 }
