@@ -38,22 +38,22 @@ a:hover{
 	position:absolute;
 }
 .rahi h1{
-	font-size:60px;
+	font-size:4em;
     font-family: 'Moon Dance', cursive;
 }
 .rahi p,h3{
 	font-family: Gabriola;
-	font-size:2em;
+	font-size:1.7em;
     margin-top:1em;
 }
 span{
 	color: green;
 }
 img{
-	height:250px;
-	width:200px;
+	height:12em;
+	width:auto;
 	position:absolute;
-	right:500px;
+	right:10em;
 	top:10em;
 	border:5px solid;
 	border-color: black green green black;
